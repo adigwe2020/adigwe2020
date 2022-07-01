@@ -1,7 +1,7 @@
 
 # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="14px"> thanks for stopping by
 
-### I am ? Adigwe Emeke?,
+### I am, Adigwe Emeke?,
 
 A Creative Front-End Developer with almost 1 years of experience building websites and web apps, collaborative environments. You can also find me on 
 <a href="https://www.linkedin.com/in/adigwe-emeke/" rel="nofollow noreferrer">
